@@ -30,5 +30,4 @@ artificial intelligence at the research center.
   </p>
 </h3>
 
-![](https://raw.githubusercontent.com/jihyunkim-dev/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/jihyunkim-dev/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
