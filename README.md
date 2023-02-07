@@ -19,8 +19,10 @@
   Follow Me💫
   <p align="center">
     <br>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/>&nbsp
+    <a href="mailto:jihyun.kim.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+    <a href="https://jihyun-dev.tistory.com/">
+      <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://jihyun-dev.tistory.com/"/></a>&nbsp
   </p>
 </h3>
 
