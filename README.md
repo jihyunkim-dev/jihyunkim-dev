@@ -19,9 +19,9 @@ artificial intelligence at the research center.
   </p>
 </h3>
 
-<h3 align="center">
+<h3>
   Follow Me💫
-  <p align="center">
+  <p>
     <br>
     <a href="mailto:jihyun.kim.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
