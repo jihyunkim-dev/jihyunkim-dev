@@ -3,7 +3,7 @@
 I majored in computer engineering and studied cyber security,<br>
 artificial intelligence at the research center.
 </p>
-<
+
 <h3>
   Tech Stack💻
   <p>
