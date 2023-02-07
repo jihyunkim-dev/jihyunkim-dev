@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+Jihyun+Kim+%F0%9F%A6%8B" alt="Typing SVG" /></a>
-  Hi there,
 </p>
 
 <h3 align="center">
@@ -28,4 +27,5 @@
   </p>
 </h3>
 
-
+![](https://raw.githubusercontent.com/jihyunkim-dev/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jihyunkim-dev/github-stats/master/generated/languages.svg#gh-light-mode-only)
