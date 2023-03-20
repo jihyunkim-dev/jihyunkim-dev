@@ -1,7 +1,8 @@
 <p>
 🌟Hi there, I'm a front-end developer.<br>
-I majored in computer engineering and studied cyber security,<br>
-artificial intelligence at the research center.
+I majored computer engineering and work as a front-end developer.<br>
+Also, i have experience learning about artificial intelligence and cybersecurity at a research center,<br>
+so I'm studying both fields together.
 </p>
 
 <h3>
