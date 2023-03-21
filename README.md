@@ -1,5 +1,5 @@
 <p>
-🌟Hi there, I'm a front-end developer.<br>
+<h3>🌟Hi there, I'm a front-end developer.</h3><br>
 I majored in Computer Engineering and studied <br>
 Artificial Intelligence and Cybersecurity at a research center.<br>
 <br>
