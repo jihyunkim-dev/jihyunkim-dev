@@ -7,7 +7,6 @@
 &nbsp; and study both AI and Cybersecurity in my spare time.
 
 </p>
-<br>
 
 <h3>
   Tech Stack💻
