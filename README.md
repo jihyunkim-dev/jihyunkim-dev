@@ -1,10 +1,10 @@
 <p>
-<h3>🌟Hi there, I'm a front-end developer.</h3><br>
-I majored in Computer Engineering and studied <br>
-Artificial Intelligence and Cybersecurity at a research center.<br>
+<h3>🌟Hi there, I'm a front-end developer.</h3>
+&nbsp; I majored in Computer Engineering and studied <br>
+&nbsp; Artificial Intelligence and Cybersecurity at a research center.<br>
 <br>
-I currently work mainly on front-end development using React and Next.js, <br>
-and study both AI and Cybersecurity in my spare time.
+&nbsp; I currently work mainly on front-end development using React and Next.js, <br>
+&nbsp; and study both AI and Cybersecurity in my spare time.
 
 </p>
 <br>
