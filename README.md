@@ -7,6 +7,7 @@ I currently work mainly on front-end development using React and Next.js, <br>
 and study both AI and Cybersecurity in my spare time.
 
 </p>
+<br>
 
 <h3>
   Tech Stack💻
