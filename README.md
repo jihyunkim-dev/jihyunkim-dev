@@ -22,7 +22,6 @@ and study both AI and Cybersecurity in my spare time.
 
       
   ### Follow Me 💫   
-
   <br>
   <a href="mailto:jihyun.kim.dev@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp;
