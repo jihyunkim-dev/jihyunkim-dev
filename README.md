@@ -20,7 +20,7 @@ and study both AI and Cybersecurity in my spare time.
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
    </p>  
 #  
-#
+#  
 
   ### Follow Me 💫
   <br>
