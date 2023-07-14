@@ -9,7 +9,7 @@
 </p>
 
 <h3>
-  Tech Stack💻
+  Tech Stack 💻
   <p>
     <br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
@@ -23,7 +23,7 @@
 </h3>
 
 <h3>
-  Follow Me💫
+  Follow Me 💫
   <p>
     <br>
     <a href="mailto:jihyun.kim.dev@gmail.com">
