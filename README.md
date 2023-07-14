@@ -1,10 +1,10 @@
    
 ### 🌟 Hi there, I'm a front-end developer.
-&ensp; I majored in Computer Engineering and studied <br/>
-&ensp; Artificial Intelligence and Cybersecurity at a research center.<br/>
+&nbsp; I majored in Computer Engineering and studied <br/>
+&nbsp; Artificial Intelligence and Cybersecurity at a research center.<br/>
 <br/>
-&ensp; I currently work mainly on front-end development using React and Next.js, <br>
-&ensp; and study both AI and Cybersecurity in my spare time.   
+&nbsp; I currently work mainly on front-end development using React and Next.js, <br>
+&nbsp; and study both AI and Cybersecurity in my spare time.   
 <br/>
 
   ### Tech Stack 💻   
