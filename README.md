@@ -5,7 +5,7 @@ Artificial Intelligence and Cybersecurity at a research center.<br>
 <br>
 I currently work mainly on front-end development using React and Next.js, <br>
 and study both AI and Cybersecurity in my spare time.   
-
+   
   ### Tech Stack 💻   
     <br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
